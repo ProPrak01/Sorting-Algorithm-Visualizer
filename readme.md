@@ -2,10 +2,7 @@
 
 clang++ -std=c++17 main.cpp -o main -I/opt/homebrew/include -L/opt/homebrew/lib -lsfml-graphics -lsfml-window -lsfml-system
 
-## Preview:
 
-![](images/2.png)
-![](images/1.png)
 
 ## Available Sorting Algorithms
 
@@ -17,3 +14,9 @@ clang++ -std=c++17 main.cpp -o main -I/opt/homebrew/include -L/opt/homebrew/lib 
 | Merge Sort     | An efficient, stable, divide-and-conquer sorting algorithm that divides the unsorted list into n sublists and then merges them to produce a sorted list |
 | Quick Sort     | A divide-and-conquer algorithm that picks an element as pivot and partitions the array around the pivot                                                 |
 | Radix Sort     | A non-comparative sorting algorithm that sorts integers by processing each digit                                                                        |
+
+
+## Preview:
+
+![](images/2.png)
+![](images/1.png)
